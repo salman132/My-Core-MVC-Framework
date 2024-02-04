@@ -1,0 +1,15 @@
+{
+  "name": "salman/test",
+  "authors": [
+    {
+      "name": "salman test project",
+      "email": "salman.auvi@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Core\\": "Core/",
+      "Http\\": "Http/"
+    }
+  }
+}
